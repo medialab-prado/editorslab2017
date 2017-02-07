@@ -1,0 +1,45 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: periodismodatos, ddj
+#+TAGS: 
+#+DESCRIPTION: 
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Convocatoria para la edición 2017 de Editors Lab
+#+DATE: <2017-02-07 mar 16:00>
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+[[https://www.globaleditorsnetwork.org/][Global Editors Network]] (GEN) y [[http://www.elconfidencial.com][El Confidencial]], con el soporte de Google News Lab, celebran la edición de 2017 de /Editors Lab, Prototyping the future of News/ (laboratorio de la redacción, prototipando el futuro del periodismo) . Medialab-Prado a través del [[http://medialab-prado.es/article/periodismo_de_datos_-_grupo_de_trabajo][grupo de periodismo de datos]], ha sido invitada a participar con un equipo de tres personas en el /Hackday/ que tendrá lugar en la [[https://www.google.es/maps/place/El%2BConfidencial/@40.4404264,-3.8556108,12z/data%3D!4m8!1m2!2m1!1sel%2Bconfidencial!3m4!1s0xd41864d791c73ad:0x1ecbe4498a665853!8m2!3d40.440813!4d-3.785099][redacción de El Confidencial]] los días 3 y 4 de marzo de 2017.
+
+/Editors Lab/ reúne unos diez equipos de los medios o entidades a la vanguardia de las tecnologías de la información aplicadas al periodismo. La competición dura dos días y se pretende desarrollar un prototipo de un producto periodístico innovador. Este año, el tema del hackathon será *periodismo móvil*. En los días anteriores al evento darán más detalles al respecto.
+
+La red mundial de editores (GEN) agrupa a los medios más importantes del mundo, entre los que se encuentran /El País/, /The Washington Post/, /The New York Times/, /The Guardian/, /The Times/ o /Le Monde/, entre otros muchos. En 2015 la edición de /Editors Lab/ fue organizada por segunda vez por el diario /El País/, en cuya redacción se desarrolló la competición, y contó con la colaboración de Medialab-Prado de tal manera que un equipo de Medialab formado por Martín Nadal, Chema Blanco y Adolfo Antón Bravo desarrolló una segunda versión del proyecto [[http://mapas.muimota.net/][Mapas del descontento]] de Martín Nadal que fue desarrollado por su equipo durante la [[http://medialab-prado.es/article/tallervisualizar15proyectos][edición de 2015 de Visualizar]]. El equipo ganador, también por segunda vez, fue el /Grupo Vocento/.
+
+#+CAPTION: Imagen de GEN de la edición del Editors Lab 2015 en Medialab-Prado. [[https://creativecommons.org/licenses/by-nc/2.0/][Licencia CC]]
+#+ATTR_HTML: :alt Imagen de GEN de la edición del Editors Lab 2015 en Medialab-Prado. [[https://creativecommons.org/licenses/by-nc/2.0/][Licencia CC]] :title EditorsLab_2015
+https://farm1.staticflickr.com/528/18488623448_0db1dfac00_z_d.jpg
+
+Los equipos ganadores de cada edición regional participan en un hackatón internacional que se celebra durante la cumbre de la /GEN/. En 2016 España no participó en esta competición pese a ser uno de los países que más peticiones hizo para la convocatoria de ayudas al /Google News Lab/ y también fue uno de los países que más fondos logró. En 2017 el medio elegido para organizar el hackatón ha sido /El Confidencial/. El equipo que gane en cada una de las competiciones competirá en la /Final del Editors Lab/, que tendrá lugar en *junio de 2017 en Viena, Austria*. El equipo que saldrá ganador de la competición de Madrid tendrá la oportunidad de competir contra compañeros de todo el mundo en el escenario global del /GEN Summit/. El viaje y el alojamiento para tres personas son parte de premio.
+
+Desde Medialab-Prado abrimos la convocatoria del martes 7 de febrero hasta el martes 28 para elegir un equipo compuesto idealmente por los roles de *periodista*, *desarrollador/a* y *diseñador/a*. Se trata de que durante el evento desarrolle un prototipo real y operativo. No se requiere ningún tipo de trabajo o preparación previos. El viaje lo soportan las personas seleccionadas pero las comidas serán ofrecidas por la organización.
+ 
+El equipo elegido asistirá el jueves 2 de marzo a un pre-evento que contará con una invitada especial.
