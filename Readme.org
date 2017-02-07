@@ -38,6 +38,12 @@ La red mundial de editores (GEN) agrupa a los medios más importantes del mundo,
 #+ATTR_HTML: :alt Imagen de GEN de la edición del Editors Lab 2015 en Medialab-Prado. [[https://creativecommons.org/licenses/by-nc/2.0/][Licencia CC]] :title EditorsLab_2015
 https://farm1.staticflickr.com/528/18488623448_0db1dfac00_z_d.jpg
 
+#+BEGIN_HTML
+<div>
+<img alt="Imagen de GEN de la edición del Editors Lab 2015 en Medialab-Prado. Licencia CC" title="EditorsLab_2015" src="https://farm1.staticflickr.com/528/18488623448_0db1dfac00_z_d.jpg" />
+</div>
+#+END_HTML
+
 Los equipos ganadores de cada edición regional participan en un hackatón internacional que se celebra durante la cumbre de la /GEN/. En 2016 España no participó en esta competición pese a ser uno de los países que más peticiones hizo para la convocatoria de ayudas al /Google News Lab/ y también fue uno de los países que más fondos logró. En 2017 el medio elegido para organizar el hackatón ha sido /El Confidencial/. El equipo que gane en cada una de las competiciones competirá en la /Final del Editors Lab/, que tendrá lugar en *junio de 2017 en Viena, Austria*. El equipo que saldrá ganador de la competición de Madrid tendrá la oportunidad de competir contra compañeros de todo el mundo en el escenario global del /GEN Summit/. El viaje y el alojamiento para tres personas son parte de premio.
 
 Desde Medialab-Prado abrimos la convocatoria del martes 7 de febrero hasta el martes 28 para elegir un equipo compuesto idealmente por los roles de *periodista*, *desarrollador/a* y *diseñador/a*. Se trata de que durante el evento desarrolle un prototipo real y operativo. No se requiere ningún tipo de trabajo o preparación previos. El viaje lo soportan las personas seleccionadas pero las comidas serán ofrecidas por la organización.
